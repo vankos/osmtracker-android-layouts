@@ -2,8 +2,8 @@
 <layouts>
     <layout name="root">
         <row>
-            <button type="tag" label="Тротуар справа"/>
 			<button type="tag" label="Тротуар слева"/>
+            <button type="tag" label="Тротуар справа"/>
 			<button type="tag" label="Нет тротуара"/>
         </row>
         <row> 
