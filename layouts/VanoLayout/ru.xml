@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouts>
+    <layout name="root">
+        <row>
+            <button type="tag" label="Тротуар справа"/>
+			<button type="tag" label="Тротуар слева"/>
+			<button type="tag" label="Нет тротуара"/>
+        </row>
+        <row> 
+           <button type="tag" label="Начало лестницы"/>
+		   <button type="tag" label="Конец лестницы"/>
+        </row>
+		<row> 
+           <button type="tag" label="Нет перехода"/>
+		   <button type="tag" label="Не размеченный переход"/>
+		   <button type="tag" label="Размеченный переход"/>
+		   <button type="tag" label="Переход со светофором"/>
+        </row>
+		
+    </layout>
+</layouts>
