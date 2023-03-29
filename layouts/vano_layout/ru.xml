@@ -15,7 +15,7 @@
         <row> 
            <button type="tag" label="Начало лестницы"/>
 		   <button type="tag" label="Конец лестницы"/>
-		   <button type="textnote " label="Своя заметка"/>
+		   <button type="textnote" label="Своя заметка"/>
         </row>
 
 		
