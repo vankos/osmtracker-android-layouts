@@ -3,9 +3,14 @@
     <layout name="root">
         <row>
 			<button type="tag" label="Тротуар слева"/>
-            <button type="tag" label="Тротуар справа"/>
 			<button type="tag" label="Нет тротуара"/>
+			<button type="tag" label="Тротуар с обоиз сторон"/>
+            <button type="tag" label="Тротуар справа"/>
         </row>
+		<row>
+			<button type="tag" label="Дорожка"/>
+			<button type="tag" label="Тропа"/>
+		</row>
 		<row> 
            <button type="tag" label="Нет перехода"/>
 		   <button type="tag" label="Неразмеченный переход"/>
@@ -16,8 +21,6 @@
            <button type="tag" label="Начало лестницы"/>
 		   <button type="tag" label="Конец лестницы"/>
 		   <button type="textnote" label="Своя заметка"/>
-        </row>
-
-		
+        </row>	
     </layout>
 </layouts>
