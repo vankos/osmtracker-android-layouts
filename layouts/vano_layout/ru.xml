@@ -8,8 +8,10 @@
             <button type="tag" label="Тротуар справа"/>
         </row>
 		<row>
+			<button type="tag" label="Слева"/>
 			<button type="tag" label="Дорожка"/>
 			<button type="tag" label="Тропа"/>
+			<button type="tag" label="Справа"/>
 		</row>
 		<row> 
            <button type="tag" label="Нет перехода"/>
